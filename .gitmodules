@@ -1,0 +1,7 @@
+[submodule "fastmcp"]
+    path = fastmcp
+    url = ...
+
+[submodule "mcp_tool"]
+    path = mcp_tool
+    url = ...
