@@ -1,0 +1,13 @@
+# 忽略虚拟环境
+**/venv/
+
+# 忽略数据库和环境配置
+.env
+database.db
+sqlite
+
+# 忽略测试文件
+test_example.py
+
+# 忽略 IDE 文件夹
+.idea
