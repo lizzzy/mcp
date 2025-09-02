@@ -1,5 +1,8 @@
 # 忽略虚拟环境
 **/venv/
+**/.roo/
+**/.runff_cache/
+**/uv.lock
 
 # 忽略数据库和环境配置
 .env
@@ -11,3 +14,5 @@ test_example.py
 
 # 忽略 IDE 文件夹
 .idea
+
+.gitignore
